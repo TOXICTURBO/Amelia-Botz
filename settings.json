@@ -1,12 +1,12 @@
 {    
      "Version": "3.5.0",
-     "namalu" : "DITTAZ",
-     "nomerlu": "6285156137901",
-     "namabot": "Amelia Botz",
+     "namalu" : "Turbo Mods",
+     "nomerlu": "916380260672",
+     "namabot": "Toxic-Alexa",
      "nomerbot": "6285859108597",
      "gender" : "Female",
-     "copyright" : "Extream",
-     "namaDocument": "Amelia Botz",
+     "copyright" : "Turbo Mods",
+     "namaDocument": "Toxic Alexa",
      "joinGcExtream": true,
 
      "publik": true,
@@ -22,7 +22,7 @@
      "autoblockcmd" : false, 
      "autobio" : true,
      "autoLevel" : true,
-     "AutoClearChat": true,
+     "AutoClearChat": false,
      "totalForward" : 1000000,
      "explain": false,
      "jumlahTroli": 2022,
@@ -45,14 +45,14 @@
      },
      
      "setPayment": {
-     "Shopee" : "085156137901",
-     "Gopay" : "085156137901",
-     "Dana" : "085156137901",
-     "Ovo" : "085156137901"
+     "Shopee" : "916380260672",
+     "Gopay" : "916380260672",
+     "Dana" : "916380260672",
+     "Ovo" : "916380260672"
      },
      
      "setPrefix": {
-     "prefix": "!",
+     "prefix": ".",
      "multi": true,
      "onepref" : false,
      "nopref" : false
@@ -61,7 +61,7 @@
      "setWelcome": {
      "autoWelcome": false,
      "welcomeType": "type3",
-     "background": "https://tinyurl.com/yxvl8h3a"
+     "background": "https://telegra.ph/file/f6ec3d3d845a1e3dcce39.jpg"
      },    
      
      "setMenu": "document",    
